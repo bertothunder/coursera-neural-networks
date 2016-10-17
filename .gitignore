@@ -91,3 +91,6 @@ local/
 
 # Rope project settings
 .ropeproject
+
+# jupyter
+share/
